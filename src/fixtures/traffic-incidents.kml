@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document><name>Current MTO Traffic Incidents</name><description>Current Traffic Incidents provided by the Ontario Ministry of Transportation</description><Style id="eventstyle"><IconStyle><scale>0.9</scale><Icon><href>http://www.cdn.mto.gov.on.ca/english/traveller/trip/images/icon-event-20x20.png</href></Icon><hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/></IconStyle></Style><Style id="closure"><IconStyle><scale>0.9</scale><Icon><href>http://www.cdn.mto.gov.on.ca/english/traveller/trip/images/icon-closure-20x20.png</href></Icon><hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/></IconStyle></Style><Folder><name></name><description/></Folder><Folder><name>Niagara</name><description/></Folder><Folder><name>Hamilton</name><description/></Folder><Folder><name>Halton</name><description/><Placemark><name>QEW Toronto bound Off-ramp [  - BURLOAK DRIVE ] - Collision</name><description>
+
+    
+                &lt;div style="padding: 6px 10px 0 10px; margin: 0; min-height: 100px; height:auto !important;"&gt;
+									&lt;div id="windowEvent" style="width: 330px;margin: 0;padding-left: 15px;"&gt;
+                  &lt;table&gt;
+              &lt;tr&gt;&lt;td style="border: 0; padding: 6px;"&gt;&lt;img src="http://www.cdn.mto.gov.on.ca/graphics/english/traveller/trip/icon-incident-20x20.gif"/&gt;&lt;/td&gt;
+              &lt;td style="border: 0; padding: 0px;"&gt;&lt;h1 style="font-size: 90%;font-weight: bold;color: #000;margin: 6px 0;padding: 0;"&gt;QEW Toronto bound Off-ramp [  - BURLOAK DRIVE ] - Collision&lt;/h1&gt;
+                  &lt;p style="font-size:80%;margin:0; padding:0;"&gt;Last Updated: December 30, 2017 18:13
+              &lt;/p&gt;&lt;/td&gt;
+              &lt;/tr&gt;&lt;/table&gt;
+										&lt;table id="eventText" style="font-size: 80%;color: #6e787b;width: 350px;border:0;"&gt;
+    
+    &lt;tr&gt;
+											&lt;td style="width: 100px;font-weight: bold;padding: 3px;color: #000;  border: 0;"&gt;Event Id:&lt;/td&gt;
+											&lt;td style="width: 250px;padding: 3px;  border: 0;"&gt;508204&lt;/td&gt;
+                      &lt;/tr&gt;
+    
+
+    &lt;tr&gt;
+                      
+											&lt;td style="width: 100px;font-weight: bold;padding: 3px;color: #000;  border: 0;"&gt;Highway:&lt;/td&gt;
+											&lt;td style="width: 250px;padding: 3px;  border: 0;"&gt;QEW&lt;/td&gt;
+                      
+                      &lt;/tr&gt;&lt;tr&gt;
+											
+											&lt;td style="width: 100px;font-weight: bold;padding: 3px;color: #000;  border: 0;"&gt;Direction:&lt;/td&gt;
+											&lt;td style="width: 250px;padding: 3px;  border: 0;"&gt;Toronto bound&lt;/td&gt;
+                      
+                      &lt;/tr&gt;&lt;tr&gt;
+											
+											&lt;td style="width: 100px;font-weight: bold;padding: 3px;color: #000;  border: 0;"&gt;Stream:&lt;/td&gt;
+											&lt;td style="width: 250px;padding: 3px;  border: 0;"&gt;Off-ramp&lt;/td&gt;
+                      
+                      &lt;/tr&gt;&lt;tr&gt;
+											
+											&lt;td style="width: 100px;font-weight: bold;padding: 3px;color: #000;  border: 0;"&gt;From/At:&lt;/td&gt;
+											&lt;td style="width: 250px;padding: 3px;  border: 0;"&gt;&lt;/td&gt;
+                      
+                      &lt;/tr&gt;&lt;tr&gt;
+											
+											&lt;td style="width: 100px;font-weight: bold;padding: 3px;color: #000;  border: 0;"&gt;To:&lt;/td&gt;
+											&lt;td style="width: 250px;padding: 3px;  border: 0;"&gt;BURLOAK DRIVE&lt;/td&gt;
+											
+                      &lt;/tr&gt;&lt;tr&gt;
+                      
+											&lt;td style="width: 100px;font-weight: bold;padding: 3px;color: #000;  border: 0;"&gt;Lanes Affected:&lt;/td&gt;
+											&lt;td style="width: 250px;padding: 3px;  border: 0;"&gt;All lanes blocked&lt;/td&gt;
+											
+                      &lt;/tr&gt;&lt;tr&gt;
+                      
+											&lt;td style="width: 100px;font-weight: bold;padding: 3px;color: #000;  border: 0;"&gt;&lt;strong&gt;Comment :&lt;/strong&gt;&lt;/td&gt;
+											&lt;td style="width: 250px;padding: 3px;  border: 0;"&gt;&lt;/td&gt;
+										
+                      &lt;/tr&gt;&lt;tr&gt;
+                      
+											&lt;td style="width: 100px;font-weight: bold;padding: 3px;color: #000;  border: 0;"&gt;&lt;strong&gt;Traffic Impact :&lt;/strong&gt;&lt;/td&gt;
+											&lt;td style="width: 250px;padding: 3px;  border: 0;"&gt;&lt;/td&gt;
+										
+                      &lt;/tr&gt;&lt;tr&gt;
+                      
+											&lt;td style="width: 100px;font-weight: bold;padding: 3px;color: #000;  border: 0;"&gt;Type/Reason&lt;/td&gt;
+											&lt;td style="width: 250px;padding: 3px;  border: 0;"&gt;Unplanned - Collision&lt;/td&gt;
+
+                      &lt;/tr&gt;&lt;tr&gt;
+                      
+											&lt;td style="width: 100px;font-weight: bold;padding: 3px;color: #000;  border: 0;"&gt;Event Start:&lt;/td&gt;
+											&lt;td style="width: 250px;padding: 3px;  border: 0;"&gt;December 30, 2017 14:33&lt;/td&gt;
+										
+                      &lt;/tr&gt;&lt;tr&gt;
+                      
+											&lt;td style="width: 100px;font-weight: bold;padding: 3px;color: #000;  border: 0;"&gt;Event End:&lt;/td&gt;
+											&lt;td style="width: 250px;padding: 3px;  border: 0;"&gt;&lt;/td&gt;
+										
+                      &lt;/tr&gt;&lt;tr&gt;
+                      
+											&lt;td style="width: 100px;font-weight: bold;padding: 3px;color: #000;  border: 0;"&gt;Last Change: &lt;/td&gt;
+											&lt;td style="width: 250px;padding: 3px;  border: 0;"&gt;Updated 2017-12-30 18:13 &lt;/td&gt;
+
+										&lt;/tr&gt;&lt;/table&gt;
+									&lt;/div&gt;
+                  &lt;/div&gt;
+									
+
+  </description><Point><coordinates>-79.756504,43.395298,0 </coordinates></Point><styleUrl>#eventstyle</styleUrl></Placemark></Folder><Folder><name>Peel</name><description/></Folder><Folder><name>Toronto</name><description/><Placemark><name>HWY 427 Northbound Express [ QUEENSWAY AVENUE -  ] - Collision</name><description>
+
+    
+                &lt;div style="padding: 6px 10px 0 10px; margin: 0; min-height: 100px; height:auto !important;"&gt;
+									&lt;div id="windowEvent" style="width: 330px;margin: 0;padding-left: 15px;"&gt;
+                  &lt;table&gt;
+              &lt;tr&gt;&lt;td style="border: 0; padding: 6px;"&gt;&lt;img src="http://www.cdn.mto.gov.on.ca/graphics/english/traveller/trip/icon-incident-20x20.gif"/&gt;&lt;/td&gt;
+              &lt;td style="border: 0; padding: 0px;"&gt;&lt;h1 style="font-size: 90%;font-weight: bold;color: #000;margin: 6px 0;padding: 0;"&gt;HWY 427 Northbound Express [ QUEENSWAY AVENUE -  ] - Collision&lt;/h1&gt;
+                  &lt;p style="font-size:80%;margin:0; padding:0;"&gt;Last Updated: December 30, 2017 19:41
+              &lt;/p&gt;&lt;/td&gt;
+              &lt;/tr&gt;&lt;/table&gt;
+										&lt;table id="eventText" style="font-size: 80%;color: #6e787b;width: 350px;border:0;"&gt;
+    
+    &lt;tr&gt;
+											&lt;td style="width: 100px;font-weight: bold;padding: 3px;color: #000;  border: 0;"&gt;Event Id:&lt;/td&gt;
+											&lt;td style="width: 250px;padding: 3px;  border: 0;"&gt;403506&lt;/td&gt;
+                      &lt;/tr&gt;
+    
+
+    &lt;tr&gt;
+                      
+											&lt;td style="width: 100px;font-weight: bold;padding: 3px;color: #000;  border: 0;"&gt;Highway:&lt;/td&gt;
+											&lt;td style="width: 250px;padding: 3px;  border: 0;"&gt;HWY 427&lt;/td&gt;
+                      
+                      &lt;/tr&gt;&lt;tr&gt;
+											
+											&lt;td style="width: 100px;font-weight: bold;padding: 3px;color: #000;  border: 0;"&gt;Direction:&lt;/td&gt;
+											&lt;td style="width: 250px;padding: 3px;  border: 0;"&gt;Northbound&lt;/td&gt;
+                      
+                      &lt;/tr&gt;&lt;tr&gt;
+											
+											&lt;td style="width: 100px;font-weight: bold;padding: 3px;color: #000;  border: 0;"&gt;Stream:&lt;/td&gt;
+											&lt;td style="width: 250px;padding: 3px;  border: 0;"&gt;Express&lt;/td&gt;
+                      
+                      &lt;/tr&gt;&lt;tr&gt;
+											
+											&lt;td style="width: 100px;font-weight: bold;padding: 3px;color: #000;  border: 0;"&gt;From/At:&lt;/td&gt;
+											&lt;td style="width: 250px;padding: 3px;  border: 0;"&gt;QUEENSWAY AVENUE&lt;/td&gt;
+                      
+                      &lt;/tr&gt;&lt;tr&gt;
+											
+											&lt;td style="width: 100px;font-weight: bold;padding: 3px;color: #000;  border: 0;"&gt;To:&lt;/td&gt;
+											&lt;td style="width: 250px;padding: 3px;  border: 0;"&gt;&lt;/td&gt;
+											
+                      &lt;/tr&gt;&lt;tr&gt;
+                      
+											&lt;td style="width: 100px;font-weight: bold;padding: 3px;color: #000;  border: 0;"&gt;Lanes Affected:&lt;/td&gt;
+											&lt;td style="width: 250px;padding: 3px;  border: 0;"&gt;left shoulder and left lane blocked&lt;/td&gt;
+											
+                      &lt;/tr&gt;&lt;tr&gt;
+                      
+											&lt;td style="width: 100px;font-weight: bold;padding: 3px;color: #000;  border: 0;"&gt;&lt;strong&gt;Comment :&lt;/strong&gt;&lt;/td&gt;
+											&lt;td style="width: 250px;padding: 3px;  border: 0;"&gt;&lt;/td&gt;
+										
+                      &lt;/tr&gt;&lt;tr&gt;
+                      
+											&lt;td style="width: 100px;font-weight: bold;padding: 3px;color: #000;  border: 0;"&gt;&lt;strong&gt;Traffic Impact :&lt;/strong&gt;&lt;/td&gt;
+											&lt;td style="width: 250px;padding: 3px;  border: 0;"&gt;&lt;/td&gt;
+										
+                      &lt;/tr&gt;&lt;tr&gt;
+                      
+											&lt;td style="width: 100px;font-weight: bold;padding: 3px;color: #000;  border: 0;"&gt;Type/Reason&lt;/td&gt;
+											&lt;td style="width: 250px;padding: 3px;  border: 0;"&gt;Unplanned - Collision&lt;/td&gt;
+
+                      &lt;/tr&gt;&lt;tr&gt;
+                      
+											&lt;td style="width: 100px;font-weight: bold;padding: 3px;color: #000;  border: 0;"&gt;Event Start:&lt;/td&gt;
+											&lt;td style="width: 250px;padding: 3px;  border: 0;"&gt;December 30, 2017 19:41&lt;/td&gt;
+										
+                      &lt;/tr&gt;&lt;tr&gt;
+                      
+											&lt;td style="width: 100px;font-weight: bold;padding: 3px;color: #000;  border: 0;"&gt;Event End:&lt;/td&gt;
+											&lt;td style="width: 250px;padding: 3px;  border: 0;"&gt;&lt;/td&gt;
+										
+                      &lt;/tr&gt;&lt;tr&gt;
+                      
+											&lt;td style="width: 100px;font-weight: bold;padding: 3px;color: #000;  border: 0;"&gt;Last Change: &lt;/td&gt;
+											&lt;td style="width: 250px;padding: 3px;  border: 0;"&gt;Entered 2017-12-30 19:41 &lt;/td&gt;
+
+										&lt;/tr&gt;&lt;/table&gt;
+									&lt;/div&gt;
+                  &lt;/div&gt;
+									
+
+  </description><Point><coordinates>-79.551517,43.615125,0 </coordinates></Point><styleUrl>#eventstyle</styleUrl></Placemark></Folder><Folder><name>York</name><description/></Folder><Folder><name>Durham</name><description/></Folder><Folder><name>Simcoe</name><description/></Folder><Folder><name>Ontario East Communities</name><description/></Folder><Folder><name></name><description/></Folder><Folder><name></name><description/></Folder><Folder><name></name><description/><Placemark><name>HWY 17 Eastbound  [ GARBAGE DISPOSAL RD-HAVILLAND TWP -  ] - Disabled Vehicle</name><description>
+
+    
+                &lt;div style="padding: 6px 10px 0 10px; margin: 0; min-height: 100px; height:auto !important;"&gt;
+									&lt;div id="windowEvent" style="width: 330px;margin: 0;padding-left: 15px;"&gt;
+                  &lt;table&gt;
+              &lt;tr&gt;&lt;td style="border: 0; padding: 6px;"&gt;&lt;img src="http://www.cdn.mto.gov.on.ca/graphics/english/traveller/trip/icon-incident-20x20.gif"/&gt;&lt;/td&gt;
+              &lt;td style="border: 0; padding: 0px;"&gt;&lt;h1 style="font-size: 90%;font-weight: bold;color: #000;margin: 6px 0;padding: 0;"&gt;HWY 17 Eastbound  [ GARBAGE DISPOSAL RD-HAVILLAND TWP -  ] - Disabled Vehicle&lt;/h1&gt;
+                  &lt;p style="font-size:80%;margin:0; padding:0;"&gt;Last Updated: December 30, 2017 19:04
+              &lt;/p&gt;&lt;/td&gt;
+              &lt;/tr&gt;&lt;/table&gt;
+										&lt;table id="eventText" style="font-size: 80%;color: #6e787b;width: 350px;border:0;"&gt;
+    
+    &lt;tr&gt;
+											&lt;td style="width: 100px;font-weight: bold;padding: 3px;color: #000;  border: 0;"&gt;Event Id:&lt;/td&gt;
+											&lt;td style="width: 250px;padding: 3px;  border: 0;"&gt;287194&lt;/td&gt;
+                      &lt;/tr&gt;
+    
+
+    &lt;tr&gt;
+                      
+											&lt;td style="width: 100px;font-weight: bold;padding: 3px;color: #000;  border: 0;"&gt;Highway:&lt;/td&gt;
+											&lt;td style="width: 250px;padding: 3px;  border: 0;"&gt;HWY 17&lt;/td&gt;
+                      
+                      &lt;/tr&gt;&lt;tr&gt;
+											
+											&lt;td style="width: 100px;font-weight: bold;padding: 3px;color: #000;  border: 0;"&gt;Direction:&lt;/td&gt;
+											&lt;td style="width: 250px;padding: 3px;  border: 0;"&gt;Eastbound&lt;/td&gt;
+                      
+                      &lt;/tr&gt;&lt;tr&gt;
+											
+											&lt;td style="width: 100px;font-weight: bold;padding: 3px;color: #000;  border: 0;"&gt;Stream:&lt;/td&gt;
+											&lt;td style="width: 250px;padding: 3px;  border: 0;"&gt;&lt;/td&gt;
+                      
+                      &lt;/tr&gt;&lt;tr&gt;
+											
+											&lt;td style="width: 100px;font-weight: bold;padding: 3px;color: #000;  border: 0;"&gt;From/At:&lt;/td&gt;
+											&lt;td style="width: 250px;padding: 3px;  border: 0;"&gt;GARBAGE DISPOSAL RD-HAVILLAND TWP&lt;/td&gt;
+                      
+                      &lt;/tr&gt;&lt;tr&gt;
+											
+											&lt;td style="width: 100px;font-weight: bold;padding: 3px;color: #000;  border: 0;"&gt;To:&lt;/td&gt;
+											&lt;td style="width: 250px;padding: 3px;  border: 0;"&gt;&lt;/td&gt;
+											
+                      &lt;/tr&gt;&lt;tr&gt;
+                      
+											&lt;td style="width: 100px;font-weight: bold;padding: 3px;color: #000;  border: 0;"&gt;Lanes Affected:&lt;/td&gt;
+											&lt;td style="width: 250px;padding: 3px;  border: 0;"&gt; lane and Eastbound shoulder blocked&lt;/td&gt;
+											
+                      &lt;/tr&gt;&lt;tr&gt;
+                      
+											&lt;td style="width: 100px;font-weight: bold;padding: 3px;color: #000;  border: 0;"&gt;&lt;strong&gt;Comment :&lt;/strong&gt;&lt;/td&gt;
+											&lt;td style="width: 250px;padding: 3px;  border: 0;"&gt;HWY 17 SOUTHBOUND REDUCED TO ONE LANE IN THE GOULAIS RIVER AREA. LAST UPDATED DECEMBER 30TH 2017 AT 19:00&lt;/td&gt;
+										
+                      &lt;/tr&gt;&lt;tr&gt;
+                      
+											&lt;td style="width: 100px;font-weight: bold;padding: 3px;color: #000;  border: 0;"&gt;&lt;strong&gt;Traffic Impact :&lt;/strong&gt;&lt;/td&gt;
+											&lt;td style="width: 250px;padding: 3px;  border: 0;"&gt;&lt;/td&gt;
+										
+                      &lt;/tr&gt;&lt;tr&gt;
+                      
+											&lt;td style="width: 100px;font-weight: bold;padding: 3px;color: #000;  border: 0;"&gt;Type/Reason&lt;/td&gt;
+											&lt;td style="width: 250px;padding: 3px;  border: 0;"&gt;Unplanned - Disabled Vehicle&lt;/td&gt;
+
+                      &lt;/tr&gt;&lt;tr&gt;
+                      
+											&lt;td style="width: 100px;font-weight: bold;padding: 3px;color: #000;  border: 0;"&gt;Event Start:&lt;/td&gt;
+											&lt;td style="width: 250px;padding: 3px;  border: 0;"&gt;December 30, 2017 17:30&lt;/td&gt;
+										
+                      &lt;/tr&gt;&lt;tr&gt;
+                      
+											&lt;td style="width: 100px;font-weight: bold;padding: 3px;color: #000;  border: 0;"&gt;Event End:&lt;/td&gt;
+											&lt;td style="width: 250px;padding: 3px;  border: 0;"&gt;&lt;/td&gt;
+										
+                      &lt;/tr&gt;&lt;tr&gt;
+                      
+											&lt;td style="width: 100px;font-weight: bold;padding: 3px;color: #000;  border: 0;"&gt;Last Change: &lt;/td&gt;
+											&lt;td style="width: 250px;padding: 3px;  border: 0;"&gt;Updated 2017-12-30 19:04 &lt;/td&gt;
+
+										&lt;/tr&gt;&lt;/table&gt;
+									&lt;/div&gt;
+                  &lt;/div&gt;
+									
+
+  </description><Point><coordinates>-84.389598896,46.790660371,0 </coordinates></Point><styleUrl>#eventstyle</styleUrl></Placemark></Folder><Folder><name></name><description/><Placemark><name>HWY 537 Southbound  [ CROSS RD-CLELAND TWP - S JCT ST CLOUD RD-CLELAND TWP ] - Flooding</name><description>
+
+    
+                &lt;div style="padding: 6px 10px 0 10px; margin: 0; min-height: 100px; height:auto !important;"&gt;
+									&lt;div id="windowEvent" style="width: 330px;margin: 0;padding-left: 15px;"&gt;
+                  &lt;table&gt;
+              &lt;tr&gt;&lt;td style="border: 0; padding: 6px;"&gt;&lt;img src="http://www.cdn.mto.gov.on.ca/graphics/english/traveller/trip/icon-incident-20x20.gif"/&gt;&lt;/td&gt;
+              &lt;td style="border: 0; padding: 0px;"&gt;&lt;h1 style="font-size: 90%;font-weight: bold;color: #000;margin: 6px 0;padding: 0;"&gt;HWY 537 Southbound  [ CROSS RD-CLELAND TWP - S JCT ST CLOUD RD-CLELAND TWP ] - Flooding&lt;/h1&gt;
+                  &lt;p style="font-size:80%;margin:0; padding:0;"&gt;Last Updated: December 30, 2017 19:03
+              &lt;/p&gt;&lt;/td&gt;
+              &lt;/tr&gt;&lt;/table&gt;
+										&lt;table id="eventText" style="font-size: 80%;color: #6e787b;width: 350px;border:0;"&gt;
+    
+    &lt;tr&gt;
+											&lt;td style="width: 100px;font-weight: bold;padding: 3px;color: #000;  border: 0;"&gt;Event Id:&lt;/td&gt;
+											&lt;td style="width: 250px;padding: 3px;  border: 0;"&gt;594139&lt;/td&gt;
+                      &lt;/tr&gt;
+    
+
+    &lt;tr&gt;
+                      
+											&lt;td style="width: 100px;font-weight: bold;padding: 3px;color: #000;  border: 0;"&gt;Highway:&lt;/td&gt;
+											&lt;td style="width: 250px;padding: 3px;  border: 0;"&gt;HWY 537&lt;/td&gt;
+                      
+                      &lt;/tr&gt;&lt;tr&gt;
+											
+											&lt;td style="width: 100px;font-weight: bold;padding: 3px;color: #000;  border: 0;"&gt;Direction:&lt;/td&gt;
+											&lt;td style="width: 250px;padding: 3px;  border: 0;"&gt;Southbound&lt;/td&gt;
+                      
+                      &lt;/tr&gt;&lt;tr&gt;
+											
+											&lt;td style="width: 100px;font-weight: bold;padding: 3px;color: #000;  border: 0;"&gt;Stream:&lt;/td&gt;
+											&lt;td style="width: 250px;padding: 3px;  border: 0;"&gt;&lt;/td&gt;
+                      
+                      &lt;/tr&gt;&lt;tr&gt;
+											
+											&lt;td style="width: 100px;font-weight: bold;padding: 3px;color: #000;  border: 0;"&gt;From/At:&lt;/td&gt;
+											&lt;td style="width: 250px;padding: 3px;  border: 0;"&gt;CROSS RD-CLELAND TWP&lt;/td&gt;
+                      
+                      &lt;/tr&gt;&lt;tr&gt;
+											
+											&lt;td style="width: 100px;font-weight: bold;padding: 3px;color: #000;  border: 0;"&gt;To:&lt;/td&gt;
+											&lt;td style="width: 250px;padding: 3px;  border: 0;"&gt;S JCT ST CLOUD RD-CLELAND TWP&lt;/td&gt;
+											
+                      &lt;/tr&gt;&lt;tr&gt;
+                      
+											&lt;td style="width: 100px;font-weight: bold;padding: 3px;color: #000;  border: 0;"&gt;Lanes Affected:&lt;/td&gt;
+											&lt;td style="width: 250px;padding: 3px;  border: 0;"&gt; lane and Southbound shoulder blocked&lt;/td&gt;
+											
+                      &lt;/tr&gt;&lt;tr&gt;
+                      
+											&lt;td style="width: 100px;font-weight: bold;padding: 3px;color: #000;  border: 0;"&gt;&lt;strong&gt;Comment :&lt;/strong&gt;&lt;/td&gt;
+											&lt;td style="width: 250px;padding: 3px;  border: 0;"&gt;HWY 537 REDUCED TO SINGLE LANE IN WAHNAPITAE FROM CROSS RD TO ST.CLOUD RD - JUMBO CREEK - UPDATED DECEMBER 30 AT 1900 HRS&lt;/td&gt;
+										
+                      &lt;/tr&gt;&lt;tr&gt;
+                      
+											&lt;td style="width: 100px;font-weight: bold;padding: 3px;color: #000;  border: 0;"&gt;&lt;strong&gt;Traffic Impact :&lt;/strong&gt;&lt;/td&gt;
+											&lt;td style="width: 250px;padding: 3px;  border: 0;"&gt;&lt;/td&gt;
+										
+                      &lt;/tr&gt;&lt;tr&gt;
+                      
+											&lt;td style="width: 100px;font-weight: bold;padding: 3px;color: #000;  border: 0;"&gt;Type/Reason&lt;/td&gt;
+											&lt;td style="width: 250px;padding: 3px;  border: 0;"&gt;Unplanned - Flooding&lt;/td&gt;
+
+                      &lt;/tr&gt;&lt;tr&gt;
+                      
+											&lt;td style="width: 100px;font-weight: bold;padding: 3px;color: #000;  border: 0;"&gt;Event Start:&lt;/td&gt;
+											&lt;td style="width: 250px;padding: 3px;  border: 0;"&gt;November 16, 2017 13:16&lt;/td&gt;
+										
+                      &lt;/tr&gt;&lt;tr&gt;
+                      
+											&lt;td style="width: 100px;font-weight: bold;padding: 3px;color: #000;  border: 0;"&gt;Event End:&lt;/td&gt;
+											&lt;td style="width: 250px;padding: 3px;  border: 0;"&gt;&lt;/td&gt;
+										
+                      &lt;/tr&gt;&lt;tr&gt;
+                      
+											&lt;td style="width: 100px;font-weight: bold;padding: 3px;color: #000;  border: 0;"&gt;Last Change: &lt;/td&gt;
+											&lt;td style="width: 250px;padding: 3px;  border: 0;"&gt;Updated 2017-12-30 19:03 &lt;/td&gt;
+
+										&lt;/tr&gt;&lt;/table&gt;
+									&lt;/div&gt;
+                  &lt;/div&gt;
+									
+
+  </description><Point><coordinates>-80.759480779,46.427142135,0 </coordinates></Point><styleUrl>#eventstyle</styleUrl></Placemark></Folder><Folder><name></name><description/><Placemark><name>HWY 102 Both Directions  [ HWYS 11/17 - SISTONEN'S CORNER  - END OF HWY -  ] - Collision</name><description>
+
+    
+                &lt;div style="padding: 6px 10px 0 10px; margin: 0; min-height: 100px; height:auto !important;"&gt;
+									&lt;div id="windowEvent" style="width: 330px;margin: 0;padding-left: 15px;"&gt;
+                  &lt;table&gt;
+              &lt;tr&gt;&lt;td style="border: 0; padding: 6px;"&gt;&lt;img src="http://www.cdn.mto.gov.on.ca/graphics/english/traveller/trip/icon-incident-20x20.gif"/&gt;&lt;/td&gt;
+              &lt;td style="border: 0; padding: 0px;"&gt;&lt;h1 style="font-size: 90%;font-weight: bold;color: #000;margin: 6px 0;padding: 0;"&gt;HWY 102 Both Directions  [ HWYS 11/17 - SISTONEN'S CORNER  - END OF HWY -  ] - Collision&lt;/h1&gt;
+                  &lt;p style="font-size:80%;margin:0; padding:0;"&gt;Last Updated: December 30, 2017 18:23
+              &lt;/p&gt;&lt;/td&gt;
+              &lt;/tr&gt;&lt;/table&gt;
+										&lt;table id="eventText" style="font-size: 80%;color: #6e787b;width: 350px;border:0;"&gt;
+    
+    &lt;tr&gt;
+											&lt;td style="width: 100px;font-weight: bold;padding: 3px;color: #000;  border: 0;"&gt;Event Id:&lt;/td&gt;
+											&lt;td style="width: 250px;padding: 3px;  border: 0;"&gt;76587&lt;/td&gt;
+                      &lt;/tr&gt;
+    
+
+    &lt;tr&gt;
+                      
+											&lt;td style="width: 100px;font-weight: bold;padding: 3px;color: #000;  border: 0;"&gt;Highway:&lt;/td&gt;
+											&lt;td style="width: 250px;padding: 3px;  border: 0;"&gt;HWY 102&lt;/td&gt;
+                      
+                      &lt;/tr&gt;&lt;tr&gt;
+											
+											&lt;td style="width: 100px;font-weight: bold;padding: 3px;color: #000;  border: 0;"&gt;Direction:&lt;/td&gt;
+											&lt;td style="width: 250px;padding: 3px;  border: 0;"&gt;Both Directions&lt;/td&gt;
+                      
+                      &lt;/tr&gt;&lt;tr&gt;
+											
+											&lt;td style="width: 100px;font-weight: bold;padding: 3px;color: #000;  border: 0;"&gt;Stream:&lt;/td&gt;
+											&lt;td style="width: 250px;padding: 3px;  border: 0;"&gt;&lt;/td&gt;
+                      
+                      &lt;/tr&gt;&lt;tr&gt;
+											
+											&lt;td style="width: 100px;font-weight: bold;padding: 3px;color: #000;  border: 0;"&gt;From/At:&lt;/td&gt;
+											&lt;td style="width: 250px;padding: 3px;  border: 0;"&gt;HWYS 11/17 - SISTONEN'S CORNER  - END OF HWY&lt;/td&gt;
+                      
+                      &lt;/tr&gt;&lt;tr&gt;
+											
+											&lt;td style="width: 100px;font-weight: bold;padding: 3px;color: #000;  border: 0;"&gt;To:&lt;/td&gt;
+											&lt;td style="width: 250px;padding: 3px;  border: 0;"&gt;&lt;/td&gt;
+											
+                      &lt;/tr&gt;&lt;tr&gt;
+                      
+											&lt;td style="width: 100px;font-weight: bold;padding: 3px;color: #000;  border: 0;"&gt;Lanes Affected:&lt;/td&gt;
+											&lt;td style="width: 250px;padding: 3px;  border: 0;"&gt;All lanes closed&lt;/td&gt;
+											
+                      &lt;/tr&gt;&lt;tr&gt;
+                      
+											&lt;td style="width: 100px;font-weight: bold;padding: 3px;color: #000;  border: 0;"&gt;&lt;strong&gt;Comment :&lt;/strong&gt;&lt;/td&gt;
+											&lt;td style="width: 250px;padding: 3px;  border: 0;"&gt;Hwy 102, Thunder Bay, is closed from Sistonen's Corner to Mapleware RD due to a collision. Dec. 30, 2017 at 6:22 P.M.&lt;/td&gt;
+										
+                      &lt;/tr&gt;&lt;tr&gt;
+                      
+											&lt;td style="width: 100px;font-weight: bold;padding: 3px;color: #000;  border: 0;"&gt;&lt;strong&gt;Traffic Impact :&lt;/strong&gt;&lt;/td&gt;
+											&lt;td style="width: 250px;padding: 3px;  border: 0;"&gt;&lt;/td&gt;
+										
+                      &lt;/tr&gt;&lt;tr&gt;
+                      
+											&lt;td style="width: 100px;font-weight: bold;padding: 3px;color: #000;  border: 0;"&gt;Type/Reason&lt;/td&gt;
+											&lt;td style="width: 250px;padding: 3px;  border: 0;"&gt;Unplanned - Collision&lt;/td&gt;
+
+                      &lt;/tr&gt;&lt;tr&gt;
+                      
+											&lt;td style="width: 100px;font-weight: bold;padding: 3px;color: #000;  border: 0;"&gt;Event Start:&lt;/td&gt;
+											&lt;td style="width: 250px;padding: 3px;  border: 0;"&gt;December 30, 2017 18:23&lt;/td&gt;
+										
+                      &lt;/tr&gt;&lt;tr&gt;
+                      
+											&lt;td style="width: 100px;font-weight: bold;padding: 3px;color: #000;  border: 0;"&gt;Event End:&lt;/td&gt;
+											&lt;td style="width: 250px;padding: 3px;  border: 0;"&gt;&lt;/td&gt;
+										
+                      &lt;/tr&gt;&lt;tr&gt;
+                      
+											&lt;td style="width: 100px;font-weight: bold;padding: 3px;color: #000;  border: 0;"&gt;Last Change: &lt;/td&gt;
+											&lt;td style="width: 250px;padding: 3px;  border: 0;"&gt;Entered 2017-12-30 18:23 &lt;/td&gt;
+
+										&lt;/tr&gt;&lt;/table&gt;
+									&lt;/div&gt;
+                  &lt;/div&gt;
+									
+
+  </description><Point><coordinates>-89.6496099,48.5340363,0 </coordinates></Point><styleUrl>#closure</styleUrl></Placemark></Folder></Document></kml>

@@ -3,11 +3,9 @@ package main
 import (
 	"encoding/xml"
 	"fmt"
-	"github.com/joho/godotenv"
 	"io/ioutil"
 	"math"
 	"net/http"
-	"os"
 	"strconv"
 	"strings"
 )
@@ -54,17 +52,6 @@ func distanceBetweenTwoPoints(lat1, lon1, lat2, lon2 float64) float64 {
 	return 2 * r * math.Asin(math.Sqrt(h))
 }
 
-func currentLatandLong() (lat, long float64) {
-	err := godotenv.Load()
-	if err != nil {
-		fmt.Println("Error loading .env file")
-	}
-	lat, _ = strconv.ParseFloat(os.Getenv("LATITUDE"), 64)
-	long, _ = strconv.ParseFloat(os.Getenv("LONGITUDE"), 64)
-
-	return lat, long
-}
-
 func (placemark *Placemark) getLatAndLong() (lat, long float64) {
 	geo_data := strings.Split(placemark.Point, ",")
 
@@ -74,9 +61,10 @@ func (placemark *Placemark) getLatAndLong() (lat, long float64) {
 	return lat, long
 }
 
-func FetchCloseTrafficIncidents(trafficSource string, radius float64) (closeIncidents []string) {
-	resp, _ := http.Get(trafficSource)
+func FetchCloseTrafficIncidents(trafficSource string, radius, currentLat, currentLong float64) (closeIncidents []string) {
+  resp, _ := http.Get(trafficSource)
 	body, _ := ioutil.ReadAll(resp.Body)
+
 	defer resp.Body.Close()
 
 	var k KML
@@ -86,8 +74,6 @@ func FetchCloseTrafficIncidents(trafficSource string, radius float64) (closeInci
 		fmt.Println(err)
 	}
 	var lat, long float64
-
-	currentLat, currentLong := currentLatandLong()
 
 	for _, folder := range k.Document.Folder {
 		for _, incident := range folder.Placemark {
